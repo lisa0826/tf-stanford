@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*
 import tensorflow as tf
 
 x = 2
