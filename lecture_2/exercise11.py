@@ -12,3 +12,9 @@ with tf.Session() as sess:
 writer.close()
 
 #normal_loading
+
+# summary operations以记录信息
+# tf.summary.scalar记录标量
+# tf.summary.histogram记录数据的直方图
+# tf.summary.distribution记录数据的分布图
+# tf.summary.image记录图像数据
